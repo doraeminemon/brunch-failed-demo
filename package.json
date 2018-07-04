@@ -1,0 +1,23 @@
+{
+  "name": "test-brunch",
+  "version": "1.0.0",
+  "description": "Testing mah brunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "brunch",
+    "test"
+  ],
+  "author": "doraeminemon",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-brunch": "^6.1.1",
+    "brunch": "^2.10.12",
+    "closure-compiler-brunch": "^0.2.0"
+  },
+  "dependencies": {
+    "@polymer/lit-element": "^0.5.2"
+  }
+}
